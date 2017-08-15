@@ -65,6 +65,7 @@ h1, h4{
 .store{
 	display: flex;
 	justify-content: space-between;
+	margin: 3em 0 0 0;
 }
 .product {
 	width: 30%;
@@ -80,6 +81,12 @@ h1, h4{
 .product-image img{
 	max-width: 8em;
 }
-.product p{
+.description{
 	background-color: black;
+	display: block;
+	text-align: center;
+	padding: 0.5em;
+}
+.info{
+	
 }
